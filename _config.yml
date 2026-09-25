@@ -1,6 +1,7 @@
 # theme: jekyll-theme
 # as of 2026-09-24, at least, "jekyll" is not a supported theme.
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+theme: hacker
 # from https://pages-themes.github.io/hacker/
 # 
 # Other supported themes that I like, in approximate decreasing order:

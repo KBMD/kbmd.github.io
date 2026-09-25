@@ -1,1 +1,14 @@
-theme: jekyll-theme
+# theme: jekyll-theme
+# as of 2026-09-24, at least, "jekyll" is not a supported theme.
+theme: jekyll-theme-hacker
+# from https://pages-themes.github.io/hacker/
+# 
+# Other supported themes that I like, in approximate decreasing order:
+# from https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll?versionId=free-pro-team%40latest&productId=pages
+
+# https://pages-themes.github.io/cayman/
+# https://pages-themes.github.io/tactile/
+# https://pages-themes.github.io/minimal/
+# https://pages-themes.github.io/slate/
+# https://pages-themes.github.io/dinky/
+# https://jekyll.github.io/minima/ (would have been higher, but see warning here: https://github.com/jekyll/minima
